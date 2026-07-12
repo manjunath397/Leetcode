@@ -82,3 +82,19 @@ Each problem is stored in its own directory with the corresponding accepted solu
 <p align="center">
   <b>Consistent practice. Better problem solving. Stronger fundamentals.</b>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2399-check-distances-between-same-letters](https://github.com/manjunath397/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+## Hash Table
+|  |
+| ------- |
+| [2399-check-distances-between-same-letters](https://github.com/manjunath397/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+## String
+|  |
+| ------- |
+| [2399-check-distances-between-same-letters](https://github.com/manjunath397/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+<!---LeetCode Topics End-->
