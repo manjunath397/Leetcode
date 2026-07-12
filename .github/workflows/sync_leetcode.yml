@@ -3,6 +3,9 @@ name: Sync Leetcode
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: "30 18 * * *"
+
 jobs:
   sync:
     runs-on: ubuntu-latest
