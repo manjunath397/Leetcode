@@ -1,14 +1,13 @@
 <h1 align="center">LeetCode Solutions</h1>
 
 <p align="center">
-  A collection of my accepted LeetCode solutions focused on
-  <b>Data Structures, Algorithms, and Problem Solving</b>.
+A collection of my accepted LeetCode solutions focused on Data Structures, Algorithms, and Problem Solving.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Focus-DSA-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Practice-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LeetCode-131%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </p>
 
 ---
@@ -16,7 +15,7 @@
 ## LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/manjunath_yadav?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/manjunath_yadav?theme=dark&font=Karma&ext=heatmap">
 </p>
 
 ---
@@ -41,6 +40,7 @@ Solutions are primarily written in **C++**.
 - Linked Lists
 - Stack and Queue
 - Binary Search
+
 ---
 
 ## Repository Structure
@@ -52,12 +52,33 @@ Each problem is stored in its own directory with the corresponding accepted solu
 ├── 0001-two-sum.cpp
 └── README.md
 ```
+
+---
+
 ## Goals
-Strengthen Data Structures and Algorithms
-Improve problem-solving skills
-Write optimized solutions
-Prepare for technical interviews
-Maintain consistent coding practice
+
+- Strengthen Data Structures and Algorithms
+- Improve problem-solving skills
+- Write optimized solutions
+- Prepare for technical interviews
+- Maintain consistent coding practice
+
+---
+
 ## Connect With Me
-<p align="center"> <a href="https://leetcode.com/u/manjunath_yadav/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://github.com/manjunath397"> <img src="https://img.shields.io/badge/GitHub-manjunath397-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/devaraju-gari-manjunath/"> <img src="https://img.shields.io/badge/LinkedIn-Manjunath-0A66C2?style=for-the-badge&logo=linkedin" /> </a> </p>
-<p align="center"> <b>Consistent practice. Better problem solving. Stronger fundamentals.</b> </p> 
+
+<p align="center">
+  <a href="https://leetcode.com/u/manjunath_yadav/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+  <a href="https://github.com/manjunath397">
+    <img src="https://img.shields.io/badge/GitHub-manjunath397-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/devaraju-gari-manjunath/">
+    <img src="https://img.shields.io/badge/LinkedIn-Manjunath-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+<p align="center">
+  <b>Consistent practice. Better problem solving. Stronger fundamentals.</b>
+</p>
