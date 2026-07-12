@@ -52,12 +52,12 @@ Each problem is stored in its own directory with the corresponding accepted solu
 ├── 0001-two-sum.cpp
 └── README.md
 ```
-### Goals
+## Goals
 Strengthen Data Structures and Algorithms
 Improve problem-solving skills
 Write optimized solutions
 Prepare for technical interviews
 Maintain consistent coding practice
-### Connect With Me
+## Connect With Me
 <p align="center"> <a href="https://leetcode.com/u/manjunath_yadav/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://github.com/manjunath397"> <img src="https://img.shields.io/badge/GitHub-manjunath397-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/devaraju-gari-manjunath/"> <img src="https://img.shields.io/badge/LinkedIn-Manjunath-0A66C2?style=for-the-badge&logo=linkedin" /> </a> </p>
 <p align="center"> <b>Consistent practice. Better problem solving. Stronger fundamentals.</b> </p> 
