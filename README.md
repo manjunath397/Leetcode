@@ -7,7 +7,7 @@ A collection of my accepted LeetCode solutions focused on Data Structures, Algor
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus">
   <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LeetCode-131%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </p>
 
 ---
