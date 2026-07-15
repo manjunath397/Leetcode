@@ -97,4 +97,16 @@ Each problem is stored in its own directory with the corresponding accepted solu
 |  |
 | ------- |
 | [2399-check-distances-between-same-letters](https://github.com/manjunath397/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/manjunath397/Leetcode/tree/master/0633-sum-of-square-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/manjunath397/Leetcode/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/manjunath397/Leetcode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
